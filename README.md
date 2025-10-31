@@ -6,7 +6,7 @@ WACP : 1000411
 CRS Name : Artificial Intelligence
 Course Name : Artificial Intelligence: Real-World Applications and Implications
 School name : Jain vidyalaya
-
+link for the bot: https://sarveshwaran777333.github.io/IDAI101-1000411-sarveshwaran/
 NutriWell is a virtual nutrition coachHelps users:
 1. Plan meals
 2. Set fitness goals
