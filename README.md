@@ -1,5 +1,5 @@
 # IDAI101-100411-sarveshwaran
-<img width="133" height="70" alt="image" src="https://github.com/user-attachments/assets/7fd35f23-4c2c-426c-a325-110fb6d3b46e" /># sarveshwaran-y1SA
+# sarveshwaran-y1SA
 AI-powered nutrition &amp; fitness chatbot built using Dialogflow
 Name: sarveshwaran
 Registration : 1000411
