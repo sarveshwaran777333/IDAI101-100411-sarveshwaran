@@ -1,17 +1,17 @@
-# IDAI101-1000411-sarveshwaran
+# IDAI101-100411-sarveshwaran
 <img width="133" height="70" alt="image" src="https://github.com/user-attachments/assets/7fd35f23-4c2c-426c-a325-110fb6d3b46e" /># sarveshwaran-y1SA
 AI-powered nutrition &amp; fitness chatbot built using Dialogflow
 Name: sarveshwaran
-WACP : 1000411
+Registration : 1000411
 CRS Name : Artificial Intelligence
 Course Name : Artificial Intelligence: Real-World Applications and Implications
-School name : Jain vidyalaya
+School name : Jain vidyalaya IB world school
 link for the bot: https://sarveshwaran777333.github.io/IDAI101-1000411-sarveshwaran/
 NutriWell is a virtual nutrition coachHelps users:
 1. Plan meals
 2. Set fitness goals
-3.  Track progress
-4.   Stay motivated with reminders and tips.
+3. Track progress
+4. Stay motivated with reminders and tips.
 Objective: Make personalized nutrition guidance accessible and friendly.
 
 Many people struggle with healthy eating and exercise
