@@ -8,7 +8,7 @@ Course Name : Artificial Intelligence: Real-World Applications and Implications
 School name : Jain vidyalaya IB world school
 
 
-NutriWell is a virtual nutrition coachHelps users:
+NutriWell is a virtual nutrition coach Helps users:
 1. Plan meals
 2. Set fitness goals
 3. Track progress
